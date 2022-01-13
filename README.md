@@ -3,6 +3,8 @@ A twitter username list of people with eth / crypto / btc / nft in their usernam
 
 If you have users to add, please submit a pull request deduped and submit a minimum of 100 users.
 
+Working on an import script, don't get your hopes up though. For now I found this site that I tested working, not affiliated and use at your own risk: https://twitlist.dontdrinkandroot.net
+
 # info
 This just uses the twitter api to pull all users using the built-in search function
 
